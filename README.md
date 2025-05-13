@@ -76,7 +76,7 @@ hr-chatbot/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/hr-chatbot.git
+git clone https://github.com/sudarshan-raveendranath/HR-Chatbot.git
 ```
 
 ### 2. Create a Virtual Environment and install dependencies
